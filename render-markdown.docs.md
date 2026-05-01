@@ -1,3 +1,3 @@
-Convert Markdown text to HTML using GitHub's official Markdown API, with options to render standard Markdown or GitHub Flavored Markdown (GFM). The tool displays a live preview of the rendered content, automatically generates a table of contents for headings, and provides the raw HTML output for copying, while also offering cleanup options to remove GitHub-specific formatting artifacts.
+Convert markdown text to HTML using GitHub's markdown rendering API. The tool provides a live preview of the rendered output and allows you to copy the generated HTML or rich text to your clipboard. Additional options include GitHub Flavored Markdown support and automatic cleanup of hidden HTML elements and metadata.
 
-<!-- Generated from commit: 8bd1066f6452c4aba20ab8c2764f74ae9cadf9b9 -->
+<!-- Generated from commit: 91bfd29ff0279ad7e7666b1f6047ab571007990c -->
