@@ -1,3 +1,5 @@
-Browse iNaturalist nature observations organized by sighting date and time. The page displays grouped observations with photos, species names, and counts from a remote JSON data source, allowing you to click any photo to view it in a fullscreen lightbox. Clicking species names links directly to their corresponding observation pages on iNaturalist.
+# Documentation
 
-<!-- Generated from commit: adea48cc68c722da720515218aae1f88c218ac93 -->
+Browse iNaturalist species observations organized by sighting date and time. The page fetches data from a remote source and displays each clump of observations with associated photos, species names, and links to view full details on iNaturalist. Observations are presented in reverse chronological order, with thumbnails that expand to full-size images when clicked.
+
+<!-- Generated from commit: f645e97d7d139b7357150d8cbafe0b9370f29de6 -->
